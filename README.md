@@ -70,6 +70,6 @@ cd backend/
 | ---------------  | -------------------------------------------------------- |
 | Prem Sai         | [@PremSaiBollamoni](https://github.com/PremSaiBollamoni) |
 | Jayaram Bonthu   | [@Bonthujayaram](https://github.com/Bonthujayaram)       |
-| Aawan Sharma     | [@Sharmaawan](https://github.com/Sharmaawan)             |
+| Awantika Sharma     | [@Sharmaawan](https://github.com/Sharmaawan)             |
 | Rajeev Bendalam  | [@BendalamRajeev](https://github.com/BendalamRajeev)     |
 | Josh Swaroop     | [@josh2210200404](https://github.com/josh2210200404)     |
